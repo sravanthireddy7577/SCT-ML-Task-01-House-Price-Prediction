@@ -95,3 +95,16 @@ House-price-prediction/
 ├── requirements.txt
 ├── README.md
 └── MLHousePriceDataSet.csv
+## 📌 About
+
+This project was created as part of my Machine Learning Internship at SkillCraft Technology.
+
+It demonstrates the use of Linear Regression to predict house prices based on living area, number of bedrooms, and number of full bathrooms.
+
+## 👩‍💻 Author
+
+**Sravanthi Reddy**
+
+Machine Learning Intern at SkillCraft Technology
+
+GitHub: [@sravanthireddy7577](https://github.com/sravanthireddy7577)
