@@ -31,6 +31,7 @@ The target variable is:
 - Pandas
 - Scikit-learn
 - Matplotlib
+- Streamlit
 
 ---
 
