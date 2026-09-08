@@ -95,6 +95,7 @@ House-price-prediction/
 ├── requirements.txt
 ├── README.md
 └── MLHousePriceDataSet.csv
+```
 ## 📌 About
 
 This project was created as part of my Machine Learning Internship at SkillCraft Technology.
